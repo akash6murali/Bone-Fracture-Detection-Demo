@@ -1,3 +1,5 @@
+jupyter
+IPykernel
 opencv-python
 pandas
 torchvision
