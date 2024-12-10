@@ -34,3 +34,4 @@ Download the model weight files from the links below and place them in their res
 * Trained ViT model: https://huggingface.co/D3STRON/bone_fracture_vit
 * Trained Detr model: https://huggingface.co/D3STRON/bone-fracture-detr
 * Training and Evaluation Pipelines: https://github.com/D3STRON/BoneFractureDetection
+* RCNN Testing notebook: https://colab.research.google.com/drive/1k3RO3tuwZnGK3w8KGfIZv6raazNIjTwX#scrollTo=3JiFlYpE2GkL
