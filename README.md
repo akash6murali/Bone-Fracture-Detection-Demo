@@ -27,3 +27,10 @@ Download the model weight files from the links below and place them in their res
 5. Execute the main.ipynb notebook cell by cell to run inferences on our model.
 6. Additionally we have a seperate google collab notebook which needs to be used to run inference on RCNN model. 
    [RCNN google colloab link](https://colab.research.google.com/drive/1k3RO3tuwZnGK3w8KGfIZv6raazNIjTwX?usp=sharing)
+
+# Some important links
+* Dataset for localization: https://www.kaggle.com/datasets/d3stron/augmented-fracture-data
+* Dataset for classification: https://www.kaggle.com/datasets/cjinny/mura-v11
+* Trained ViT model: https://huggingface.co/D3STRON/bone_fracture_vit
+* Trained Detr model: https://huggingface.co/D3STRON/bone-fracture-detr
+* Training and Evaluation Pipelines: https://github.com/D3STRON/BoneFractureDetection
