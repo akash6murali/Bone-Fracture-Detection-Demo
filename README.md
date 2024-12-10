@@ -11,9 +11,9 @@
 ### 1. Download Pre-trained Model Weights
 Download the model weight files from the links below and place them in their respective folders under `modules/models`:
 
-- **ResNet:** [Download Here](https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fmurali%5Fak%5Fnortheastern%5Fedu%2FDocuments%2FCS%205330%20Bone%20Fracture%20Detection%2FResnet)  
-- **VGG:** [Download Here](https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fmurali%5Fak%5Fnortheastern%5Fedu%2FDocuments%2FCS%205330%20Bone%20Fracture%20Detection%2FVGG)  
-- **YOLO:** [Download Here](https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fmurali%5Fak%5Fnortheastern%5Fedu%2FDocuments%2FCS%205330%20Bone%20Fracture%20Detection%2FYolo)  
+- **ResNet:** [Download Here](https://northeastern-my.sharepoint.com/:u:/g/personal/murali_ak_northeastern_edu/EQiETBuafthHq-wMQlSkdQUBbtCSB6KC2F4rVM9CSSfa9Q?e=qt3Aj4)  
+- **VGG:** [Download Here](https://northeastern-my.sharepoint.com/:u:/g/personal/murali_ak_northeastern_edu/ESBqfFo9cUFFu1l42_KYwVsBWH1NxkI61KEl35I_79YO-Q?e=hbQkVA)  
+- **YOLO:** [Download Here](https://northeastern-my.sharepoint.com/:u:/g/personal/murali_ak_northeastern_edu/EfWwlE6LxDdAtT0syOiQmJYBGm8EwX5GPIjLOjEr_Chwmg?e=CcRDyT)  
 
 ---
 
