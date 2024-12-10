@@ -25,3 +25,5 @@ Download the model weight files from the links below and place them in their res
 3. activate the newly created environment using conda activate demo
 4. Install the dependencies using ' pip install -r requirements.txt'
 5. Execute the main.ipynb notebook cell by cell to run inferences on our model.
+6. Additionally we have a seperate google collab notebook which needs to be used to run inference on RCNN model. 
+   [RCNN google colloab link](https://colab.research.google.com/drive/1k3RO3tuwZnGK3w8KGfIZv6raazNIjTwX?usp=sharing)
